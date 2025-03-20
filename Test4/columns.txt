@@ -1,0 +1,5 @@
+Gene
+Intron
+GC
+Coding
+NumIntrons

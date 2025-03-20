@@ -1,0 +1,2 @@
+csvfile	inputfile.csv
+column	0

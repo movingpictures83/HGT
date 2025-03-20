@@ -1,0 +1,7 @@
+Gene
+Intron
+GC
+Coding
+Transcript
+NumIntrons
+AA

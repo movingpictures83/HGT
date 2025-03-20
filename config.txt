@@ -1,0 +1,15 @@
+Prefix pipelines/HGT/
+Kitty RFTest
+Pipeline pipelines/HGT/config.randomforest.txt
+Kitty Test1
+Pipeline pipelines/HGT/config.crossvalidate.txt
+Kitty Test2
+Pipeline pipelines/HGT/config.crossvalidate.txt
+Kitty Test3
+Pipeline pipelines/HGT/config.crossvalidate.txt
+Kitty Test4
+Pipeline pipelines/HGT/config.crossvalidate.txt
+Kitty Test5
+Pipeline pipelines/HGT/config.crossvalidate.txt
+Kitty Test6
+Pipeline pipelines/HGT/config.crossvalidate.txt

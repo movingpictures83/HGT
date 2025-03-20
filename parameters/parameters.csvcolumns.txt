@@ -1,0 +1,2 @@
+csvfile	../CElegans.csv
+columnsfile	columns.txt

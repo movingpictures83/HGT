@@ -1,0 +1,4 @@
+Gene
+Intron
+NumIntrons
+GC

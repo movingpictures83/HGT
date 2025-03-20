@@ -1,0 +1,3 @@
+Plugin CSVColumns inputfile ../parameters/parameters.csvcolumns.txt outputfile inputfile.csv
+Plugin CSVRemove inputfile ../parameters/parameters.csvremove.txt outputfile inputfile.final.csv
+Plugin RFCV inputfile ../parameters/parameters.rfcv.txt outputfile results.png
